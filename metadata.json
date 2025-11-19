@@ -1,0 +1,8 @@
+{
+  "name": "Keyword Search Volume Reporter",
+  "description": "An AI-powered tool that analyzes a primary keyword, asks clarifying questions, and suggests alternative keywords with their estimated Google search volumes in a comprehensive report.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
